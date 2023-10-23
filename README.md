@@ -2,7 +2,7 @@
 
 ## I'm a Gamer, Developer and a Student
 - 🎓 I'm current studying at University of Leicester
-- 🤝 I'm looking to collaborate with other content creators
+- 🤝 I'm live in Milan, Italy
 - ⚡️ Fun fact: I am an Inter Milan fan 🖤💙
 
 
