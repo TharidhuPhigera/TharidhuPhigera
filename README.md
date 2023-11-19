@@ -1,9 +1,9 @@
 ### Hi there, I'm Tharidhu - aka Tazy
 
-## I'm a Gamer, Developer and a Student
+## I'm an Aspiring Software Developer
 - 🎓 I'm current studying at University of Leicester
 - 🤝 I'm from Milan, Italy
-- ⚡️ Fun fact: I am an Inter Milan fan 🖤💙
+- ⚡️ Sempre e Solo Forza Inter 🖤💙
 
 
 ### Languages and Tools:
