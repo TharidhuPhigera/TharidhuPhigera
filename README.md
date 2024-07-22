@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm Tharidhu - aka Tazy</h1>
 <h3 align="center">Aspiring Software Engineer from Milan, Italy</h3>
 
-- 🔭 I recently graduated from **University of Leicester** in **BSc Computer Science** with a first grade!
-
+- 🔭 I recently graduated from the **University of Leicester** with a first class **BSc in Computer Science!**
+- 
 - 🌱 I’m currently learning to build **SAAS**
 
 - 📫 How to reach me **tharidhuphigera@gmail.com**
